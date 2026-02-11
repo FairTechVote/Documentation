@@ -1,24 +1,51 @@
-== Documentação de Levantamento de Requesito
+= Documentação de Levantamento de Requisitos
+:author: Kevin da Costa Vinagre, Fulano, Ciclano, Beltrano
+:revnumber: 1.0
+:doctype: book
+:revdate: 2026-02-11
+:sectnums:
+:pdf-page-size: A4
+:imagesdir: assets/image
 
 
-= Introdução
+[cols="1,4", frame=all, grid=none]
+|===
+a|
+image::fucapi_logo.png[alt="Fucapi",width=80]
+|*CENTRO EDUCACIONAL FUCAPI* +
+Curso de Informática +
+Coordenação de curso técnico
+|===
+
+[role="center"]
+*FairTech - FairTechVote*
+
+[role="center"]
+*Documento Levantamento de requisitos*
+
+[role="right"]
+Versão 1.0
+
+
+== Introdução
 
 // Fulano vai cuidar da introdução
+Durante a elaboração do projeto tivemos como foco a ideia de um processo de votos
 
-= Visão geral deste documento
+== Visão geral deste documento
 
 // Ciclano vai cuidar da Visão geral da documentação
 
-= Convenções, termos e abreviações
+== Convenções, termos e abreviações
 
 // Beltrano vai cuidar das convenções, termos e abreviações
 
-= Identificação dos requesitos
+== Identificação dos requisitos
 
-= Prioridades dos requesitos
+== Prioridades dos requisitos
 
-= Refêrencias
+== Referências
 
-= Descrição geral do sistema
+== Descrição geral do sistema
 
-= Descrição geral dos usuarios
+== Descrição geral dos usuários
