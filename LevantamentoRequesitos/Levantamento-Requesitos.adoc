@@ -17,18 +17,15 @@ Curso de Informática +
 Coordenação de curso técnico
 |===
 
-<<<
-
-[.text-center]
+[role="center"]
 *FairTech - FairTechVote*
 
-[.text-center]
+[role="center"]
 *Documento Levantamento de requisitos*
 
-[.text-right]
+[role="right"]
 Versão 1.0
 
-<<<
 
 == Introdução
 

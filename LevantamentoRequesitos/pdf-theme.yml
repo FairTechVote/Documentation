@@ -1,0 +1,7 @@
+extends: default
+
+role:
+  center:
+    text-align: center
+  right:
+    text-align: right
