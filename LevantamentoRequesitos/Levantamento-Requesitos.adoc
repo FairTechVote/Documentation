@@ -1,0 +1,24 @@
+== Documentação de Levantamento de Requesito
+
+
+= Introdução
+
+// Fulano vai cuidar da introdução
+
+= Visão geral deste documento
+
+// Ciclano vai cuidar da Visão geral da documentação
+
+= Convenções, termos e abreviações
+
+// Beltrano vai cuidar das convenções, termos e abreviações
+
+= Identificação dos requesitos
+
+= Prioridades dos requesitos
+
+= Refêrencias
+
+= Descrição geral do sistema
+
+= Descrição geral dos usuarios
