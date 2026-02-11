@@ -10,7 +10,7 @@
 
 [cols="1,4", frame=all, grid=none]
 |===
-|+
+a|
 image::./assets/image/fucapi_logo.png[alt="Fucapi",width=80]
 |*CENTRO EDUCACIONAL FUCAPI* +
 Curso de Informática +
