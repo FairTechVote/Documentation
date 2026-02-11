@@ -3,7 +3,6 @@
 :revnumber: 1.0
 :doctype: book
 :revdate: 2026-02-11
-:toc: no
 :sectnums:
 :pdf-page-size: A4
 
