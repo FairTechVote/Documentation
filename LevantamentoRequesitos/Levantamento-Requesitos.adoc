@@ -6,13 +6,12 @@
 :toc: no
 :sectnums:
 :pdf-page-size: A4
-:imagesdir: assets/image
 
 
 [cols="1,4", frame=all, grid=none]
 |===
 |+
-image::fucapi_logo.png[alt="Fucapi",width=80]
+image::./assets/image/fucapi_logo.png[alt="Fucapi",width=80]
 |*CENTRO EDUCACIONAL FUCAPI* +
 Curso de Informática +
 Coordenação de curso técnico
