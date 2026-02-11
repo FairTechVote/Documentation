@@ -4,6 +4,7 @@
 = Introdução
 
 // Fulano vai cuidar da introdução
+Durante a elaboração do projeto tivemos como foco a ideia de um processo de votos
 
 = Visão geral deste documento
 
