@@ -9,7 +9,7 @@
 
 [cols="1,4", frame=all, grid=none]
 |===
-|image::assets/fucapi_logo[width=80]
+|image::assets/image/fucapi_logo[width=80]
 |*CENTRO EDUCACIONAL FUCAPI* +
 Curso de Informática +
 Coordenação de curso técnico
@@ -18,7 +18,7 @@ Coordenação de curso técnico
 <<<
 
 [.text-center]
-*Nome do time - Nome do Projeto*
+*FairTech - FairTechVote*
 
 [.text-center]
 *Documento Levantamento de requisitos*
