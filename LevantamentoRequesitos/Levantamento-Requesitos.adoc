@@ -118,3 +118,18 @@ Os usuários que estão sendo projetados para o sistema FairTech Vote estão cla
 * *Visitantes:* Usuários que tem acesso a visualização de projetos e eventos, podendo votar nos projetos apresentados.
 
 * *Organizadores:* Usuários responsáveis pela criação e gerenciamento dos eventos e projetos, podendo visualizar estatísticas de participação e votação.
+
+[role = left]
+== Requisitos:
+
+[role = left]
+=== Requisitos Funcionais:
+
+* *[RF001] - Cadastro de Organizador:*
+O sistema deve permitir o armazenamento de dados dos organizadores para gerenciamento dos eventos e projetos.
+** *Ator:* Organizador
+** *Prioridade:* Backbone
+** *Entradas e pré-condições:* Para o organizador ser registrado o mesmo deve pertencer a uma instituição de ensino, 
+previamente cadastrada e entrar com dados tais como nome, email para caso seja necessário recuperar senha, senha para
+controle de acesso e instituição para determinar qual instituição o organizador está representando lembrando que o mesmo
+poderá agir em mais de uma instituição
