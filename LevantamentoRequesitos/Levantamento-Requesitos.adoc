@@ -105,5 +105,16 @@ Reuniões e entrevistas com os stakeholders do projeto.
 [role = left]
 == Descrição geral do sistema
 
-[role = left]
-== Descrição geral dos usuários
+O sistema FairTech Vote e um sistema que procura facilitar a votação em feiras de ciências, o mesmo será
+desenvolvido com a ideia de uma aplicação web API em uma intranet conectada a uma aplicação terminal por meio 
+de totens, em termos de arquitetura o sistema está sendo planejado por meio de microserviços usando duas apis principais
+uma responsavel pelo armazenamento de dados da feira tais como projetos e eventos tendo como foco a rápida leitura
+dos mesmos e outra responsavel pela coleta e processamento dos votos, garantindo a integridade e segurança das informações, para isso será utilizado dois banco o couchbase agira na recuperação de dados com alta demanda de escrita como os votos e o cassandradb sera utilizado para consultas mais complexas e com alta demanda de leitura, tais como a apresentação dos projetos.
+
+=== Descrição dos Usuarios
+
+Os usuários que estão sendo projetados para o sistema FairTech Vote estão classificados em:
+
+* *Visitantes:* Usuários que tem acesso a visualização de projetos e eventos, podendo votar nos projetos apresentados.
+
+* *Organizadores:* Usuários responsáveis pela criação e gerenciamento dos eventos e projetos, podendo visualizar estatísticas de participação e votação.
