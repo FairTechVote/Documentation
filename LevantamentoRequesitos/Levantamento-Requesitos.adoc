@@ -71,12 +71,36 @@ ator principal da funcionalidade, nível de prioridade, pré-condições e entra
 
 [role = left]
 == Identificação dos requisitos
+Para a identificação dos requisitos foram utilizadas suas devidas categorias, usando uma abreviação da mesma, como por 
+exemplo:
+
+ * *RF* - Requisitos Funcionais
+
+ * *RNF* - Requisitos Não Funcionais
+
+Já para identificar suas o número a qual tal funcionalidade pertence, foi utilizado um sistema numérico onde cada casa numérica representa algo, como no exemplo:
+
+*RF001*
+
+* *Primeira casa decimal:* representa a camada a qual a funcionalidade pertence, exemplo: segurança, apresentação
+
+* *Segunda casa decimal:* representa a categoria de atores que a usam, exemplo: usuario, visitante, admin
+
+* *Terceira casa decimal:* representa a instância específica da funcionalidade, exemplo: cadastro, edição, exclusão
 
 [role = left]
 == Prioridades dos requisitos
+Para a definição das prioridades dos requisitos foram utilizadas as seguintes categorias:
+
+* *Backbone* - Requisitos essenciais para o funcionamento do sistema
+
+* *Core* - Requisitos importantes, mas não críticos
+
+* *Edge* - Requisitos desejáveis, mas não essenciais
 
 [role = left]
 == Referências
+Reuniões e entrevistas com os stakeholders do projeto.
 
 [role = left]
 == Descrição geral do sistema
