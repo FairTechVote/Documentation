@@ -1,5 +1,5 @@
 = Documentação de Levantamento de Requisitos
-:author: Kevin da Costa Vinagre, Fulano, Ciclano, Beltrano
+:author: Kevin da Costa Vinagre
 :revnumber: 1.0
 :doctype: book
 :revdate: 2026-02-11
@@ -28,17 +28,17 @@ Versão 1.0
 
 
 == Introdução
-
-// Fulano vai cuidar da introdução
-Durante a elaboração do projeto tivemos como foco a ideia de um processo de votos
+[role = justificado]
+Uma dos grandes pontos em uma feira de ciencia e o sistema de votação para eleger o melhor projeto 
+pensando nisso este sistema possui como principal ponto a coleta e apresentação da votação de forma intuitiva 
+o mesmo conta com uma aplicação em nuvem que faz o armazenamento e processamento dos dados, e uma aplicação 
+terminal que se da por meio de totens para cadastros e voto.
 
 == Visão geral deste documento
 
-// Ciclano vai cuidar da Visão geral da documentação
 
 == Convenções, termos e abreviações
 
-// Beltrano vai cuidar das convenções, termos e abreviações
 
 == Identificação dos requisitos
 

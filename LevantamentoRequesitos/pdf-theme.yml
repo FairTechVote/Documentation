@@ -5,3 +5,5 @@ role:
     text-align: center
   right:
     text-align: right
+  justificado:
+    text-align: justify
