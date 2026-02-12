@@ -1,8 +1,13 @@
 extends: default
 
+table_head_background_color: #f0f0f0
+table_head_font_color: #333333
+
 role:
   center:
     text-align: center
+  left:
+    text-align: left
   right:
     text-align: right
   justificado:
