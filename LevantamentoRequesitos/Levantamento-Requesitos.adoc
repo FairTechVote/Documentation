@@ -17,35 +17,69 @@ Curso de Informática +
 Coordenação de curso técnico
 |===
 
-[role="center"]
-*FairTech - FairTechVote*
+[role = center]
+*FairTech - FairTechVote* 
 
-[role="center"]
-*Documento Levantamento de requisitos*
-
-[role="right"]
+[role = right]
+*Documento Levantamento de requisitos* +
 Versão 1.0
 
-
+[role = left]
 == Introdução
+
 [role = justificado]
-Uma dos grandes pontos em uma feira de ciencia e o sistema de votação para eleger o melhor projeto 
+Uma dos grandes pontos em uma feira de ciência e o sistema de votação para eleger o melhor projeto 
 pensando nisso este sistema possui como principal ponto a coleta e apresentação da votação de forma intuitiva 
 o mesmo conta com uma aplicação em nuvem que faz o armazenamento e processamento dos dados, e uma aplicação 
 terminal que se da por meio de totens para cadastros e voto.
 
+[role = left]
 == Visão geral deste documento
+Este documento possui como finalidade apresentar os requisitos funcionais e não funcionais da aplicação assim 
+como seus principais usuários e o nível de prioridade de cada requisito, estando separado entre:
 
+* *Descrição Geral do Sistema:* Apresentação previa sobre o sistema e suas funcionalidades assim como os públicos
+que serão abordados no mesmo, uma classificação de cada um e como os mesmo irão interagir com o sistema.
 
+* *Requisitos Funcionais:* Definição das funcionalidades que o sistema deve apresentar, com sua identificação,
+ator principal da funcionalidade, nível de prioridade, pré-condições e entradas necessárias, assim como saídas e pós-condições.
+
+* *Requisitos Não Funcionais:* Apresenta todos os requisitos não funcionais que o sistema deve atender, como desempenho, segurança, usabilidade, entre outros.
+
+[role = left]
 == Convenções, termos e abreviações
 
+[col = "1,4", frame = all, grid = all]
+|===
+| *Termo e abreviação* | *Definição*
+| API | Interface de Programação de Aplicações
+| DB | Banco de Dados
+| UI | Interface do Usuário
+| CRUD | Create, Read, Update, Delete
+| JAVA | Linguagem de Programação Java
+| teorema CAP | Consistência, Disponibilidade e Tolerância a Partições
+| teorema PACEL | Consistência, Disponibilidade, Tolerância a Partições e Latência
+| I/O bound | Limitação de Entrada/Saída
+| CPU bound | Limitação de Processamento
+| GITHUB | Plataforma de hospedagem de código-fonte e controle de versão
+| log | Registro de eventos e atividades do sistema
+| COUCHBASE | Banco de Dados NoSQL orientado a documentos
+| CASSANDRADB | Banco de Dados NoSQL orientado a colunas
+| Android | Sistema Operacional para dispositivos móveis
+| Android Studio | Ambiente de Desenvolvimento Integrado (IDE) para Android
+|===
 
+[role = left]
 == Identificação dos requisitos
 
+[role = left]
 == Prioridades dos requisitos
 
+[role = left]
 == Referências
 
+[role = left]
 == Descrição geral do sistema
 
+[role = left]
 == Descrição geral dos usuários
