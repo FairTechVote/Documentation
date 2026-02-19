@@ -1,0 +1,8 @@
+= Documentação de Arquitetura de software
+:author: Kevin da Costa Vinagre
+:revnumber: 1.0
+:doctype: book
+:revdate: 2026-02-19
+:sectnums:
+:pdf-page-size: A4
+:imagesdir: assets/image
